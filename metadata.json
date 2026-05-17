@@ -1,0 +1,6 @@
+{
+  "name": "TERRABRICKS - Linktree Premium",
+  "description": "Linktree animado e premium para fábrica de tijolos ecológicos, mobile-first com estética dark futurista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
